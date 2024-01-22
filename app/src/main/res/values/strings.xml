@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ARFoodOrdering</string>
+    <string name="place">place</string>
+    <string name="scan">scan</string>
+    <string name="gen">gen</string>
+    <string name="scanCam">scanCam</string>
+    <string name="Scroll" />
+    <string name="add">add</string>
+</resources>
